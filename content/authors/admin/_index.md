@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: ...
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Eugene Kurilko-Ryumin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Eugene
+last_name: Kurilko-Ryumin
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of Peoples’ Friendship University of Russia named after Patrice Lumumba(RUDN)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include information security and artificial intelligence.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Arts
+  - Music
+  - Computer Games
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Secondary general education
+      institution: GBOU 1576
+      year: 2023
+    - course: Car driver
+      institution: College of Architecture and Construction No. 7
+      year: 2022
+      
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,7 +53,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 40
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -70,7 +70,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
         icon: person-hiking
@@ -105,7 +105,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/emkurilkoryumin
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Kurilko-Ryumin Eugene student of RUDN University His research interests include information security and artificial intelligence.
+First year student at the Faculty of Physics, Mathematics and Natural Sciences.
